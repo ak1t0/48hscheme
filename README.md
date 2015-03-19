@@ -1,5 +1,6 @@
 ## Scheme parser by Parsec3
 
+only lex
 
 
 ##Reference document
